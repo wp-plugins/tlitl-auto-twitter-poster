@@ -28,6 +28,14 @@ echo "";
 
 <tr><td nowrap="nowrap"><h2><a href="http://tli.tl/webmasters" target="_blank">How To Get the following Parameters ?</a></h2></td></tr>            
 
+<tr><td nowrap="nowrap">
+<object width="450" height="230">
+<param name="movie" value="http://www.youtube.com/v/U-eIlkI0tLA?hd=1&hl=en&fs=1&color1=0xa4a4a4&color2=0xa4a4a4&border=1"></param>
+<param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>
+<embed src="http://www.youtube.com/v/U-eIlkI0tLA?hd=1&hl=en&fs=1&color1=0xa4a4a4&color2=0xa4a4a4&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="450" height="230"></embed>
+</object>
+</td></tr>            
+
 <tr><td><hr align="center" size="2px" style="color: red;" /></td></tr>                
             
                 <tr>
