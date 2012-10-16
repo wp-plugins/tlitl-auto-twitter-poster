@@ -10,9 +10,9 @@
         Installation        
         All you have to do is download, unzip, upload to your plugins folder and activate it from the plugins menu.
 
-         Version: 3.8.2
+         Version: 3.9.0
          Author: kHaSHaBaWy
-         Author URI: http://crazy-eng.com
+         Author URI: http://takefastnotes.com
     */
     
     function wp_post_to_twitter_install () {

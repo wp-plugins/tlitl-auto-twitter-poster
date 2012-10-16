@@ -1,9 +1,9 @@
 ﻿=== Plugin Name ===
 Contributors: mohandez@hotmail.com
-Donate link: http://crazy-eng.com/
+Donate link: http://takefastnotes.com/
 Tags: twitter, tweet, auto-tweet, simple, SEO, seo, tli.tl ,auto,
 Requires at least: 2.7.0
-Tested up to: 2.9
+Tested up to: 3.4
 Stable tag: 1.5.1
 
 This WP Twitter plugin auto posts updates from your blog to twitter, auto shorten URLs with TLI.TL url shortener 
@@ -43,6 +43,10 @@ All you have to do is download, unzip, upload to your plugins folder and activat
 
 = 3.5 =
 * Adding a check that tli.tl service is working and using the original post link of not working
+
+= 3.6 =
+* fixing bug
+
 
 == Frequently Asked Questions ==
 Q1. why shorten ?
