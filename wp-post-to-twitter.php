@@ -10,7 +10,7 @@
         Installation        
         All you have to do is download, unzip, upload to your plugins folder and activate it from the plugins menu.
 
-         Version: 3.9.0
+         Version: 3.9.1
          Author: kHaSHaBaWy
          Author URI: http://takefastnotes.com
     */
