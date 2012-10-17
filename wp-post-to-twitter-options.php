@@ -91,8 +91,7 @@ echo "";
             
 <hr align="center" size="2px" style="color: red;" />
 <h3>Follow TLI.TL on FB To Learn more about how to earn $$ from this plugin ? :)</h3>
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http://takefastnotes.com&amp;width=180&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:60px; background:#fff; allowTransparency:true";></iframe>
-<hr align="center" size="2px" style="color: red;" />            
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ftakefastnotes.com%2F&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=80&amp;appId=377343122345655" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe><hr align="center" size="2px" style="color: red;" />            
             
 <br />
 <b>**</b> If you got that error [ <b>Error Reported, We are sorry for that !</b> ]:-<br />
